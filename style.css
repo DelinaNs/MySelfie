@@ -1,0 +1,11 @@
+#camera,#result{
+    width: 360px;
+    height: 250px;
+    border: 1px solid;
+    text-align: center;
+    
+}
+body{
+    text-align: center;
+    background-color: mediumslateblue;
+}
